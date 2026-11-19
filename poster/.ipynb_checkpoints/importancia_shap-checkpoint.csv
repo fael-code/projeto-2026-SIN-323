@@ -1,0 +1,11 @@
+,media_abs_shap
+uso_limite_credito,0.8220145
+qtd_atrasos_30_59_dias,0.3924202
+qtd_atrasos_90_dias,0.3206546
+idade,0.24166898
+qtd_emprestimos_abertos,0.20424224
+qtd_atrasos_60_89_dias,0.17398629
+razao_endividamento,0.13081573
+renda_mensal,0.11036359
+qtd_emprestimos_imobiliarios,0.0944367
+qtd_dependentes,0.027135933
