@@ -6,3 +6,7 @@ Alerta precoce de inadimplência com aprendizado de máquina. Projeto prático d
 
 pip install -r requirements.txt
 streamlit run app.py
+
+## Executar o jupyter notebook localmente via terminal do Visual Studio Code
+
+jupyter notebook
